@@ -1,0 +1,31 @@
+{
+  "name": "alsdata",
+  "version": "0.1.1",
+  "description": "this module contains all data models for ALS project",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/dmitrof/alsdata.git"
+  },
+  "author": "Dmitrii Trofimov <ttmitry@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dmitrof/alsdata/issues"
+  },
+  "homepage": "https://github.com/dmitrof/alsdata#readme",
+  "dependencies": {
+    "mongoose": "^4.13.10"
+  },
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^5.0.5"
+  },
+  "keywords": [
+    "mongoose",
+    "data",
+    "als"
+  ]
+}
